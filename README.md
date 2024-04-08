@@ -2,6 +2,7 @@
 Starting with a simple grid-based A* implementation. Will progress to more complex implementations...
 
 ### Instructions
+NOTE: The simple_grid_based_aStar doesn't use any additional libraries
 1. Import the simple_grid_based_aStar.py file
 2. Call the do_a_star function
 3. Pass 3 parameters

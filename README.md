@@ -24,3 +24,34 @@ The algorithm takes as input a grid representing the environment, start and end 
 - Robotic navigation in warehouses, factories, and outdoor environments.
 - Video game AI for character movement and navigation.
 - Routing algorithms in transportation and logistics systems.
+
+### Test Results:
+<p align="center">
+  <img src="https://github.com/AdarshKaran/A_star_algorithm/blob/main/Test%20Cases/A*test_case_1.png?raw=true" alt="Test Case 1" width="600">
+  <br>
+  <em>Test Case 1</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AdarshKaran/A_star_algorithm/blob/main/Test%20Cases/A*test_case_2.png?raw=true" alt="Test Case 2" width="600">
+  <br>
+  <em>Test Case 2</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AdarshKaran/A_star_algorithm/blob/main/Test%20Cases/A*test_case_3.png?raw=true" alt="Test Case 3" width="600">
+  <br>
+  <em>Test Case 3</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AdarshKaran/A_star_algorithm/blob/main/Test%20Cases/A*test_case_4.png?raw=true" alt="Test Case 4" width="600">
+  <br>
+  <em>Test Case 4</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AdarshKaran/A_star_algorithm/blob/main/Test%20Cases/A*test_case_5.png?raw=true" alt="Test Case 5" width="900">
+  <br>
+  <em>Test Case 5</em>
+</p>
